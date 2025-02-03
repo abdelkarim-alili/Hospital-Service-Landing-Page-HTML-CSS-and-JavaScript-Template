@@ -1,5 +1,8 @@
 # Hospital Service Landing Page | HTML, CSS and JavaScript Template
 
+## Live Demo
+Check out the live demo of the website here: [Live Demo](https://abdelkarim-alili.github.io/Hospital-Service-Landing-Page-HTML-CSS-and-JavaScript-Template/)
+
 ## Description
 Hospital Service is a clean and modern business HTML template for hospital, doctors, clinic, medical, health and more. This is a fully dynamic, well structured, easy to use. This template developed and designed specially for Medical purposes.
 
